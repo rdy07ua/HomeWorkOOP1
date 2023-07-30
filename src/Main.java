@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Age: " + teacher.getAge());
         System.out.println("Student: " + teacher.getStudent().getFirstname() + " " + teacher.getStudent().getLastname());
 
-        // Зміна інформації про студента та викладача
+
 
 
     }
